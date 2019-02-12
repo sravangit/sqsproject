@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<parameter name="browserName" value="ie" />
+		<parameter name="currencyFrom" value="EUR" />
+		<parameter name="currencyTo" value="GBP" />
+		<classes>
+			<class name="com.xe.currencyconversion.TestClass" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
