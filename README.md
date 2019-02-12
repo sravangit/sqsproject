@@ -1,6 +1,7 @@
 # sqsproject
 
 ## required versions 
+
 1 java - 8
 2. maven 3.3.X
 3. testng 3.9
