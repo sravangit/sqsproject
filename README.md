@@ -10,7 +10,7 @@
 ## How to build the project into local machine
 
 1. First clone the project into IDE from GitHub using url https://github.com/sravangit/sqsproject.git
-2. a sample video to clone the github repository into eclipse IDE https://www.youtube.com/watch?v=38JFCqi_X3c
+2. a sample video to clone the github repository into eclipse IDE https://www.youtube.com/watch?v=LPT7v69guVY
 3. if using chrome, internet explorer or firefox clear cache, sessions and cookies before running the tests
 
 ## to run a project from maven command
